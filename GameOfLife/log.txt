@@ -1,0 +1,228 @@
+2020-10-29 11:50:46.5175|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 11:50:46.5579|DEBUG|GameOfLife.Program|Grid #0  aliveCount: 138
+2020-10-29 11:50:47.0892|DEBUG|GameOfLife.Program|Grid #1  aliveCount: 124
+2020-10-29 11:50:47.6356|DEBUG|GameOfLife.Program|Grid #2  aliveCount: 117
+2020-10-29 11:50:48.1767|DEBUG|GameOfLife.Program|Grid #3  aliveCount: 128
+2020-10-29 11:50:48.7303|DEBUG|GameOfLife.Program|Grid #4  aliveCount: 123
+2020-10-29 11:50:49.2588|DEBUG|GameOfLife.Program|Grid #5  aliveCount: 126
+2020-10-29 11:50:49.7764|DEBUG|GameOfLife.Program|Grid #6  aliveCount: 112
+2020-10-29 11:50:50.3256|DEBUG|GameOfLife.Program|Grid #7  aliveCount: 118
+2020-10-29 11:50:50.8673|DEBUG|GameOfLife.Program|Grid #8  aliveCount: 120
+2020-10-29 11:50:51.4048|DEBUG|GameOfLife.Program|Grid #9  aliveCount: 114
+2020-10-29 11:50:51.9379|DEBUG|GameOfLife.Program|Grid #10  aliveCount: 129
+2020-10-29 11:50:52.4632|DEBUG|GameOfLife.Program|Grid #11  aliveCount: 126
+2020-10-29 11:50:52.9938|DEBUG|GameOfLife.Program|Grid #12  aliveCount: 128
+2020-10-29 11:50:53.5301|DEBUG|GameOfLife.Program|Grid #13  aliveCount: 110
+2020-10-29 11:50:54.0613|DEBUG|GameOfLife.Program|Grid #14  aliveCount: 122
+2020-10-29 11:50:54.5864|DEBUG|GameOfLife.Program|Grid #15  aliveCount: 114
+2020-10-29 11:50:55.1241|DEBUG|GameOfLife.Program|Grid #16  aliveCount: 107
+2020-10-29 11:50:55.6431|DEBUG|GameOfLife.Program|Grid #17  aliveCount: 132
+2020-10-29 11:50:56.1780|DEBUG|GameOfLife.Program|Grid #18  aliveCount: 126
+2020-10-29 11:50:56.7134|DEBUG|GameOfLife.Program|Grid #19  aliveCount: 133
+2020-10-29 11:50:57.2637|DEBUG|GameOfLife.Program|Grid #20  aliveCount: 130
+2020-10-29 11:50:57.8050|DEBUG|GameOfLife.Program|Grid #21  aliveCount: 118
+2020-10-29 11:50:58.3573|DEBUG|GameOfLife.Program|Grid #22  aliveCount: 127
+2020-10-29 11:50:58.8991|DEBUG|GameOfLife.Program|Grid #23  aliveCount: 126
+2020-10-29 11:50:59.4137|DEBUG|GameOfLife.Program|Q pressed...
+2020-10-29 11:50:59.4211|INFO|GameOfLife.Program|=== Ending Program ===
+2020-10-29 13:16:31.5564|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 13:19:06.1606|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 13:19:06.1908|DEBUG|GameOfLife.Program|Grid #0  aliveCount: 120
+2020-10-29 13:19:06.7051|DEBUG|GameOfLife.Program|Grid #1  aliveCount: 110
+2020-10-29 13:19:07.2386|DEBUG|GameOfLife.Program|Grid #2  aliveCount: 130
+2020-10-29 13:19:07.7752|DEBUG|GameOfLife.Program|Grid #3  aliveCount: 137
+2020-10-29 13:19:08.3071|DEBUG|GameOfLife.Program|Grid #4  aliveCount: 122
+2020-10-29 13:19:08.8420|DEBUG|GameOfLife.Program|Grid #5  aliveCount: 122
+2020-10-29 13:19:09.3727|DEBUG|GameOfLife.Program|Grid #6  aliveCount: 118
+2020-10-29 13:19:09.9021|DEBUG|GameOfLife.Program|Grid #7  aliveCount: 134
+2020-10-29 13:19:10.4359|DEBUG|GameOfLife.Program|Grid #8  aliveCount: 137
+2020-10-29 13:19:10.9830|DEBUG|GameOfLife.Program|Grid #9  aliveCount: 136
+2020-10-29 13:19:11.5297|DEBUG|GameOfLife.Program|Grid #10  aliveCount: 128
+2020-10-29 13:19:12.0616|DEBUG|GameOfLife.Program|Grid #11  aliveCount: 119
+2020-10-29 13:19:12.5938|DEBUG|GameOfLife.Program|Grid #12  aliveCount: 129
+2020-10-29 13:19:13.1290|DEBUG|GameOfLife.Program|Grid #13  aliveCount: 129
+2020-10-29 13:19:13.6605|DEBUG|GameOfLife.Program|Grid #14  aliveCount: 108
+2020-10-29 13:19:14.2056|DEBUG|GameOfLife.Program|Grid #15  aliveCount: 129
+2020-10-29 13:19:14.7400|DEBUG|GameOfLife.Program|Grid #16  aliveCount: 133
+2020-10-29 13:19:15.2743|DEBUG|GameOfLife.Program|Grid #17  aliveCount: 111
+2020-10-29 13:19:15.8060|DEBUG|GameOfLife.Program|Grid #18  aliveCount: 117
+2020-10-29 13:19:16.3510|DEBUG|GameOfLife.Program|Grid #19  aliveCount: 115
+2020-10-29 13:19:16.8805|DEBUG|GameOfLife.Program|Grid #20  aliveCount: 116
+2020-10-29 13:19:17.4246|DEBUG|GameOfLife.Program|Q pressed...
+2020-10-29 13:19:17.4246|INFO|GameOfLife.Program|=== Ending Program ===
+2020-10-29 13:19:39.2181|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 13:19:39.2493|INFO|GameOfLife.Program|RunMode: Interactive
+2020-10-29 13:19:39.2493|DEBUG|GameOfLife.Program|Grid #0  aliveCount: 128
+2020-10-29 13:19:39.8073|DEBUG|GameOfLife.Program|Grid #1  aliveCount: 136
+2020-10-29 13:19:40.3416|DEBUG|GameOfLife.Program|Grid #2  aliveCount: 125
+2020-10-29 13:19:40.8715|DEBUG|GameOfLife.Program|Grid #3  aliveCount: 118
+2020-10-29 13:19:41.4232|DEBUG|GameOfLife.Program|Grid #4  aliveCount: 135
+2020-10-29 13:19:41.9555|DEBUG|GameOfLife.Program|Grid #5  aliveCount: 112
+2020-10-29 13:19:42.4885|DEBUG|GameOfLife.Program|Grid #6  aliveCount: 149
+2020-10-29 13:19:43.0195|DEBUG|GameOfLife.Program|Grid #7  aliveCount: 124
+2020-10-29 13:19:43.5560|DEBUG|GameOfLife.Program|Grid #8  aliveCount: 134
+2020-10-29 13:19:44.0867|DEBUG|GameOfLife.Program|Q pressed...
+2020-10-29 13:19:44.0964|INFO|GameOfLife.Program|=== Ending Program ===
+2020-10-29 13:32:16.3193|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 13:32:16.3480|INFO|GameOfLife.Program|Param 1: i
+2020-10-29 13:32:16.3480|INFO|GameOfLife.Program|Param 2: 20
+2020-10-29 13:32:16.3611|INFO|GameOfLife.Program|RunMode: Interactive
+2020-10-29 13:32:16.3611|INFO|GameOfLife.Program|GridInitType: Random
+2020-10-29 13:32:16.3611|INFO|GameOfLife.Program|GridFillDensity: 20
+2020-10-29 13:32:16.3787|INFO|GameOfLife.Program|SimulationCycleCount: Infinite
+2020-10-29 13:32:16.3787|DEBUG|GameOfLife.Program|Grid #0  aliveCount: 119
+2020-10-29 13:32:16.9290|DEBUG|GameOfLife.Program|Grid #1  aliveCount: 134
+2020-10-29 13:32:17.4643|DEBUG|GameOfLife.Program|Grid #2  aliveCount: 125
+2020-10-29 13:32:18.0026|DEBUG|GameOfLife.Program|Grid #3  aliveCount: 124
+2020-10-29 13:32:18.5381|DEBUG|GameOfLife.Program|Grid #4  aliveCount: 108
+2020-10-29 13:32:19.0791|DEBUG|GameOfLife.Program|Grid #5  aliveCount: 143
+2020-10-29 13:32:19.6158|DEBUG|GameOfLife.Program|Grid #6  aliveCount: 118
+2020-10-29 13:32:20.1497|DEBUG|GameOfLife.Program|Grid #7  aliveCount: 125
+2020-10-29 13:32:20.6961|DEBUG|GameOfLife.Program|Grid #8  aliveCount: 117
+2020-10-29 13:32:21.2243|DEBUG|GameOfLife.Program|Grid #9  aliveCount: 134
+2020-10-29 13:32:21.7572|DEBUG|GameOfLife.Program|Grid #10  aliveCount: 108
+2020-10-29 13:32:22.2937|DEBUG|GameOfLife.Program|Grid #11  aliveCount: 117
+2020-10-29 13:32:22.8259|DEBUG|GameOfLife.Program|Grid #12  aliveCount: 114
+2020-10-29 13:32:23.3590|DEBUG|GameOfLife.Program|Grid #13  aliveCount: 125
+2020-10-29 13:32:23.8883|DEBUG|GameOfLife.Program|Grid #14  aliveCount: 144
+2020-10-29 13:32:24.4209|DEBUG|GameOfLife.Program|Grid #15  aliveCount: 129
+2020-10-29 13:32:24.9762|DEBUG|GameOfLife.Program|Grid #16  aliveCount: 125
+2020-10-29 13:32:25.5264|DEBUG|GameOfLife.Program|Grid #17  aliveCount: 110
+2020-10-29 13:32:26.0627|DEBUG|GameOfLife.Program|Grid #18  aliveCount: 124
+2020-10-29 13:32:26.5958|DEBUG|GameOfLife.Program|Grid #19  aliveCount: 132
+2020-10-29 13:32:27.1443|DEBUG|GameOfLife.Program|Grid #20  aliveCount: 114
+2020-10-29 13:32:27.6802|DEBUG|GameOfLife.Program|Grid #21  aliveCount: 108
+2020-10-29 13:32:28.2270|DEBUG|GameOfLife.Program|Grid #22  aliveCount: 123
+2020-10-29 13:32:28.7616|DEBUG|GameOfLife.Program|Q pressed...
+2020-10-29 13:32:28.7688|INFO|GameOfLife.Program|=== Ending Program ===
+2020-10-29 13:34:11.6246|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 13:34:11.6542|INFO|GameOfLife.Program|Param 1: i
+2020-10-29 13:34:11.6627|INFO|GameOfLife.Program|Param 2: 80
+2020-10-29 13:34:11.6627|INFO|GameOfLife.Program|RunMode: Interactive
+2020-10-29 13:34:11.6751|INFO|GameOfLife.Program|GridInitType: Random
+2020-10-29 13:34:11.6751|INFO|GameOfLife.Program|GridFillDensity: 80
+2020-10-29 13:34:11.6886|INFO|GameOfLife.Program|SimulationCycleCount: Infinite
+2020-10-29 13:34:11.6886|DEBUG|GameOfLife.Program|Grid #0  aliveCount: 114
+2020-10-29 13:34:12.2307|DEBUG|GameOfLife.Program|Grid #1  aliveCount: 125
+2020-10-29 13:34:12.7797|DEBUG|GameOfLife.Program|Grid #2  aliveCount: 107
+2020-10-29 13:34:13.3132|DEBUG|GameOfLife.Program|Grid #3  aliveCount: 123
+2020-10-29 13:34:13.8600|DEBUG|GameOfLife.Program|Grid #4  aliveCount: 120
+2020-10-29 13:34:14.3933|DEBUG|GameOfLife.Program|Grid #5  aliveCount: 116
+2020-10-29 13:34:14.9296|DEBUG|GameOfLife.Program|Grid #6  aliveCount: 112
+2020-10-29 13:34:15.4778|DEBUG|GameOfLife.Program|Grid #7  aliveCount: 119
+2020-10-29 13:34:16.0083|DEBUG|GameOfLife.Program|Grid #8  aliveCount: 119
+2020-10-29 13:34:16.5415|DEBUG|GameOfLife.Program|Q pressed...
+2020-10-29 13:34:16.5491|INFO|GameOfLife.Program|=== Ending Program ===
+2020-10-29 13:34:53.8593|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 13:34:53.8891|INFO|GameOfLife.Program|Param 1: i
+2020-10-29 13:34:53.8953|INFO|GameOfLife.Program|Param 2: 20
+2020-10-29 13:34:53.8953|INFO|GameOfLife.Program|Param 3: 5
+2020-10-29 13:34:53.9105|INFO|GameOfLife.Program|RunMode: Interactive
+2020-10-29 13:34:53.9105|INFO|GameOfLife.Program|GridInitType: Random
+2020-10-29 13:34:53.9228|INFO|GameOfLife.Program|GridFillDensity: 20
+2020-10-29 13:34:53.9228|INFO|GameOfLife.Program|SimulationCycleCount: 5
+2020-10-29 13:34:53.9407|DEBUG|GameOfLife.Program|Grid #0  aliveCount: 132
+2020-10-29 13:34:54.4873|DEBUG|GameOfLife.Program|Grid #1  aliveCount: 134
+2020-10-29 13:34:55.0322|DEBUG|GameOfLife.Program|Grid #2  aliveCount: 120
+2020-10-29 13:34:55.5778|DEBUG|GameOfLife.Program|Grid #3  aliveCount: 132
+2020-10-29 13:34:56.1084|DEBUG|GameOfLife.Program|Grid #4  aliveCount: 122
+2020-10-29 13:34:56.6517|INFO|GameOfLife.Program|=== Ending Program ===
+2020-10-29 14:21:48.4488|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 14:21:48.4780|INFO|GameOfLife.Program|Param 1: i
+2020-10-29 14:21:48.4847|INFO|GameOfLife.Program|Param 2: 20
+2020-10-29 14:21:48.4847|INFO|GameOfLife.Program|Param 3: 5
+2020-10-29 14:21:48.4992|INFO|GameOfLife.Program|RunMode: Interactive
+2020-10-29 14:21:48.4992|INFO|GameOfLife.Program|GridInitType: Random
+2020-10-29 14:21:48.4992|INFO|GameOfLife.Program|GridFillDensity: 20
+2020-10-29 14:21:48.5204|INFO|GameOfLife.Program|SimulationCycleCount: 5
+2020-10-29 14:21:48.5204|DEBUG|GameOfLife.Program|Grid #0  aliveCount: 138
+2020-10-29 14:21:49.0573|DEBUG|GameOfLife.Program|Grid #1  aliveCount: 128
+2020-10-29 14:21:49.5874|DEBUG|GameOfLife.Program|Grid #2  aliveCount: 146
+2020-10-29 14:21:50.1196|DEBUG|GameOfLife.Program|Grid #3  aliveCount: 123
+2020-10-29 14:21:50.6657|DEBUG|GameOfLife.Program|Grid #4  aliveCount: 127
+2020-10-29 14:21:51.1938|INFO|GameOfLife.Program|=== Ending Program ===
+2020-10-29 14:22:16.4394|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 14:22:16.4762|INFO|GameOfLife.Program|0 Param Received, Default
+2020-10-29 14:22:16.4838|INFO|GameOfLife.Program|RunMode: Interactive
+2020-10-29 14:22:16.4838|INFO|GameOfLife.Program|GridInitType: RPentamino
+2020-10-29 14:22:16.4999|INFO|GameOfLife.Program|GridFillDensity: -1
+2020-10-29 14:22:16.4999|INFO|GameOfLife.Program|SimulationCycleCount: Infinite
+2020-10-29 14:22:16.5189|DEBUG|GameOfLife.Program|Grid #0  aliveCount: 117
+2020-10-29 14:22:17.0708|DEBUG|GameOfLife.Program|Grid #1  aliveCount: 138
+2020-10-29 14:22:17.6236|DEBUG|GameOfLife.Program|Grid #2  aliveCount: 144
+2020-10-29 14:22:18.1834|DEBUG|GameOfLife.Program|Grid #3  aliveCount: 134
+2020-10-29 14:22:18.7299|DEBUG|GameOfLife.Program|Grid #4  aliveCount: 136
+2020-10-29 14:22:19.2646|DEBUG|GameOfLife.Program|Grid #5  aliveCount: 112
+2020-10-29 14:22:19.7988|DEBUG|GameOfLife.Program|Grid #6  aliveCount: 123
+2020-10-29 14:22:20.3338|DEBUG|GameOfLife.Program|Grid #7  aliveCount: 124
+2020-10-29 14:22:20.8666|DEBUG|GameOfLife.Program|Grid #8  aliveCount: 139
+2020-10-29 14:22:21.4121|DEBUG|GameOfLife.Program|Grid #9  aliveCount: 123
+2020-10-29 14:22:21.9437|DEBUG|GameOfLife.Program|Grid #10  aliveCount: 123
+2020-10-29 14:22:22.4769|DEBUG|GameOfLife.Program|Grid #11  aliveCount: 123
+2020-10-29 14:22:23.0221|DEBUG|GameOfLife.Program|Grid #12  aliveCount: 124
+2020-10-29 14:22:23.5704|DEBUG|GameOfLife.Program|Grid #13  aliveCount: 120
+2020-10-29 14:22:24.1029|DEBUG|GameOfLife.Program|Grid #14  aliveCount: 123
+2020-10-29 14:22:24.6371|DEBUG|GameOfLife.Program|Grid #15  aliveCount: 122
+2020-10-29 14:22:25.1725|DEBUG|GameOfLife.Program|Grid #16  aliveCount: 121
+2020-10-29 14:22:25.7024|DEBUG|GameOfLife.Program|Grid #17  aliveCount: 104
+2020-10-29 14:22:26.2299|DEBUG|GameOfLife.Program|Q pressed...
+2020-10-29 14:22:26.2361|INFO|GameOfLife.Program|=== Ending Program ===
+2020-10-29 14:22:35.7025|INFO|GameOfLife.Program|=== Starting Program ===
+2020-10-29 14:22:35.7338|INFO|GameOfLife.Program|0 Param Received, Default
+2020-10-29 14:22:35.7338|INFO|GameOfLife.Program|RunMode: Interactive
+2020-10-29 14:22:35.7338|INFO|GameOfLife.Program|GridInitType: RPentamino
+2020-10-29 14:22:35.7545|INFO|GameOfLife.Program|GridFillDensity: -1
+2020-10-29 14:22:35.7545|INFO|GameOfLife.Program|SimulationCycleCount: Infinite
+2020-10-29 14:22:35.7703|DEBUG|GameOfLife.Program|Grid #0  aliveCount: 3
+2020-10-29 14:22:36.3105|DEBUG|GameOfLife.Program|Grid #1  aliveCount: 5
+2020-10-29 14:22:36.8446|DEBUG|GameOfLife.Program|Grid #2  aliveCount: 3
+2020-10-29 14:22:37.3778|DEBUG|GameOfLife.Program|Grid #3  aliveCount: 5
+2020-10-29 14:22:37.9108|DEBUG|GameOfLife.Program|Grid #4  aliveCount: 3
+2020-10-29 14:22:38.4611|DEBUG|GameOfLife.Program|Grid #5  aliveCount: 5
+2020-10-29 14:22:38.9998|DEBUG|GameOfLife.Program|Grid #6  aliveCount: 3
+2020-10-29 14:22:39.5342|DEBUG|GameOfLife.Program|Grid #7  aliveCount: 5
+2020-10-29 14:22:40.0804|DEBUG|GameOfLife.Program|Grid #8  aliveCount: 3
+2020-10-29 14:22:40.6089|DEBUG|GameOfLife.Program|Grid #9  aliveCount: 5
+2020-10-29 14:22:41.1428|DEBUG|GameOfLife.Program|Grid #10  aliveCount: 3
+2020-10-29 14:22:41.6771|DEBUG|GameOfLife.Program|Grid #11  aliveCount: 5
+2020-10-29 14:22:42.2267|DEBUG|GameOfLife.Program|Grid #12  aliveCount: 3
+2020-10-29 14:22:42.7641|DEBUG|GameOfLife.Program|Grid #13  aliveCount: 5
+2020-10-29 14:22:43.2968|DEBUG|GameOfLife.Program|Grid #14  aliveCount: 3
+2020-10-29 14:22:43.8317|DEBUG|GameOfLife.Program|Grid #15  aliveCount: 5
+2020-10-29 14:22:44.3815|DEBUG|GameOfLife.Program|Grid #16  aliveCount: 3
+2020-10-29 14:22:44.9119|DEBUG|GameOfLife.Program|Grid #17  aliveCount: 5
+2020-10-29 14:22:45.4427|DEBUG|GameOfLife.Program|Grid #18  aliveCount: 3
+2020-10-29 14:22:45.9748|DEBUG|GameOfLife.Program|Grid #19  aliveCount: 5
+2020-10-29 14:22:46.5105|DEBUG|GameOfLife.Program|Grid #20  aliveCount: 3
+2020-10-29 14:22:47.0547|DEBUG|GameOfLife.Program|Grid #21  aliveCount: 5
+2020-10-29 14:22:47.5993|DEBUG|GameOfLife.Program|Grid #22  aliveCount: 3
+2020-10-29 14:22:48.1315|DEBUG|GameOfLife.Program|Grid #23  aliveCount: 5
+2020-10-29 14:22:48.6618|DEBUG|GameOfLife.Program|Grid #24  aliveCount: 1
+2020-10-29 14:22:49.1981|DEBUG|GameOfLife.Program|Grid #25  aliveCount: 0
+2020-10-29 14:22:49.7327|DEBUG|GameOfLife.Program|Grid #26  aliveCount: 0
+2020-10-29 14:22:50.2639|DEBUG|GameOfLife.Program|Grid #27  aliveCount: 0
+2020-10-29 14:22:50.7928|DEBUG|GameOfLife.Program|Grid #28  aliveCount: 0
+2020-10-29 14:22:51.3381|DEBUG|GameOfLife.Program|Grid #29  aliveCount: 0
+2020-10-29 14:22:51.8870|DEBUG|GameOfLife.Program|Grid #30  aliveCount: 0
+2020-10-29 14:22:52.4187|DEBUG|GameOfLife.Program|Grid #31  aliveCount: 0
+2020-10-29 14:22:52.9489|DEBUG|GameOfLife.Program|Grid #32  aliveCount: 0
+2020-10-29 14:22:53.4850|DEBUG|GameOfLife.Program|Grid #33  aliveCount: 0
+2020-10-29 14:22:54.0187|DEBUG|GameOfLife.Program|Grid #34  aliveCount: 0
+2020-10-29 14:22:54.5518|DEBUG|GameOfLife.Program|Grid #35  aliveCount: 0
+2020-10-29 14:22:55.1007|DEBUG|GameOfLife.Program|Grid #36  aliveCount: 0
+2020-10-29 14:22:55.6493|DEBUG|GameOfLife.Program|Grid #37  aliveCount: 0
+2020-10-29 14:22:56.2011|DEBUG|GameOfLife.Program|Grid #38  aliveCount: 0
+2020-10-29 14:22:56.7368|DEBUG|GameOfLife.Program|Grid #39  aliveCount: 0
+2020-10-29 14:22:57.2703|DEBUG|GameOfLife.Program|Grid #40  aliveCount: 0
+2020-10-29 14:22:57.8058|DEBUG|GameOfLife.Program|Grid #41  aliveCount: 0
+2020-10-29 14:22:58.3390|DEBUG|GameOfLife.Program|Grid #42  aliveCount: 0
+2020-10-29 14:22:58.8716|DEBUG|GameOfLife.Program|Grid #43  aliveCount: 0
+2020-10-29 14:22:59.4229|DEBUG|GameOfLife.Program|Grid #44  aliveCount: 0
+2020-10-29 14:22:59.9607|DEBUG|GameOfLife.Program|Grid #45  aliveCount: 0
+2020-10-29 14:23:00.4926|DEBUG|GameOfLife.Program|Grid #46  aliveCount: 0
+2020-10-29 14:23:01.0227|DEBUG|GameOfLife.Program|Grid #47  aliveCount: 0
+2020-10-29 14:23:01.5572|DEBUG|GameOfLife.Program|Grid #48  aliveCount: 0
+2020-10-29 14:23:02.1036|DEBUG|GameOfLife.Program|Grid #49  aliveCount: 0
+2020-10-29 14:23:02.6365|DEBUG|GameOfLife.Program|Grid #50  aliveCount: 0
+2020-10-29 14:23:03.1719|DEBUG|GameOfLife.Program|Q pressed...
+2020-10-29 14:23:03.1719|INFO|GameOfLife.Program|=== Ending Program ===

@@ -1,0 +1,13 @@
+C:\Users\yuris\Documents\Twinprime\obj\Debug\netcoreapp3.1\Twinprime.csprojAssemblyReference.cache
+C:\Users\yuris\Documents\Twinprime\obj\Debug\netcoreapp3.1\Twinprime.AssemblyInfoInputs.cache
+C:\Users\yuris\Documents\Twinprime\obj\Debug\netcoreapp3.1\Twinprime.AssemblyInfo.cs
+C:\Users\yuris\Documents\Twinprime\obj\Debug\netcoreapp3.1\Twinprime.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Documents\Twinprime\bin\Debug\netcoreapp3.1\Twinprime.exe
+C:\Users\yuris\Documents\Twinprime\bin\Debug\netcoreapp3.1\Twinprime.deps.json
+C:\Users\yuris\Documents\Twinprime\bin\Debug\netcoreapp3.1\Twinprime.runtimeconfig.json
+C:\Users\yuris\Documents\Twinprime\bin\Debug\netcoreapp3.1\Twinprime.runtimeconfig.dev.json
+C:\Users\yuris\Documents\Twinprime\bin\Debug\netcoreapp3.1\Twinprime.dll
+C:\Users\yuris\Documents\Twinprime\bin\Debug\netcoreapp3.1\Twinprime.pdb
+C:\Users\yuris\Documents\Twinprime\obj\Debug\netcoreapp3.1\Twinprime.dll
+C:\Users\yuris\Documents\Twinprime\obj\Debug\netcoreapp3.1\Twinprime.pdb
+C:\Users\yuris\Documents\Twinprime\obj\Debug\netcoreapp3.1\Twinprime.genruntimeconfig.cache

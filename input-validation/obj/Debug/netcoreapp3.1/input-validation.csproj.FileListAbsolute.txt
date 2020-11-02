@@ -1,0 +1,13 @@
+C:\Users\yuris\Documents\input-validation\bin\Debug\netcoreapp3.1\input-validation.exe
+C:\Users\yuris\Documents\input-validation\bin\Debug\netcoreapp3.1\input-validation.deps.json
+C:\Users\yuris\Documents\input-validation\bin\Debug\netcoreapp3.1\input-validation.runtimeconfig.json
+C:\Users\yuris\Documents\input-validation\bin\Debug\netcoreapp3.1\input-validation.runtimeconfig.dev.json
+C:\Users\yuris\Documents\input-validation\bin\Debug\netcoreapp3.1\input-validation.dll
+C:\Users\yuris\Documents\input-validation\bin\Debug\netcoreapp3.1\input-validation.pdb
+C:\Users\yuris\Documents\input-validation\obj\Debug\netcoreapp3.1\input-validation.csprojAssemblyReference.cache
+C:\Users\yuris\Documents\input-validation\obj\Debug\netcoreapp3.1\input-validation.AssemblyInfoInputs.cache
+C:\Users\yuris\Documents\input-validation\obj\Debug\netcoreapp3.1\input-validation.AssemblyInfo.cs
+C:\Users\yuris\Documents\input-validation\obj\Debug\netcoreapp3.1\input-validation.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Documents\input-validation\obj\Debug\netcoreapp3.1\input-validation.dll
+C:\Users\yuris\Documents\input-validation\obj\Debug\netcoreapp3.1\input-validation.pdb
+C:\Users\yuris\Documents\input-validation\obj\Debug\netcoreapp3.1\input-validation.genruntimeconfig.cache

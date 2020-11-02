@@ -1,0 +1,152 @@
+﻿using System;
+
+namespace input_validation
+{
+    class Program
+    {
+        private const int MAX_ATTEMPT = 5;
+
+        public static void Main(string[] args)
+        {
+            // Q1
+            int sum = 0;
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Please enter a int.");
+                int input = 0;
+                try
+                {
+                    input = safePromptForInt();
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e); // FATAL: MAX_ATTEMPT exceed
+                    return;
+                }
+                try
+                {
+                    sum = safeIntAddition(sum, input);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e); // FATAL: Int addition overflow/underflow
+                    return;
+                }
+            }
+            Console.WriteLine("The sum of the 3 int you entered is: " + sum);
+            // Q2
+            Console.WriteLine("Please enter a int for the polynomial");
+            int secondInput = 0;
+            int polySum = 0;
+            try
+            {
+                secondInput = safePromptForInt();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e); // FATAL: MAX_ATTEMPT exceed
+                return;
+            }
+            polySum = polynomial(secondInput);
+            Console.WriteLine("The polynomial of the int you entered is: " + polySum);
+            // Q3
+            Console.WriteLine("Please enter the number of seconds to be converted");
+            int inputSeconds = 0;
+            string result = "";
+            try
+            {
+                inputSeconds = safePromptForInt();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e); // FATAL: MAX_ATTEMPT exceed
+                return;
+            }
+            result = convertTime(inputSeconds);
+            Console.WriteLine("The time in (hh/mm/ss) is: " + result);
+            // Q4
+            Console.WriteLine("enter the intgers, type 'end' to end");
+            string s;
+            int min = Int32.MaxValue;
+            int max = Int32.MinValue;
+            int ct = 0;
+            while (true) {
+                s = Console.ReadLine();
+                if (s=="end") break;
+                int t;
+                try{
+                    t = Convert.ToInt32(s);
+                } catch(Exception e) {
+                    Console.WriteLine("[WARN] Input Invalid, Ignored.");
+                    continue;
+                }
+                ct++; // A number is entered and checked, number count ++
+                if (t<min) min=t;
+                if (t>max) max=t;
+            }
+            if (ct==0){
+                Console.WriteLine("[WARN] You didn't enter any number!");
+            } else {
+                Console.WriteLine(max);
+                Console.WriteLine(min);
+            }
+        }
+
+        private static int safePromptForInt()
+        {
+            return safePromptForInt(0);
+        }
+        
+        private static int safePromptForInt(int recursionCt)
+        {
+            if (recursionCt > MAX_ATTEMPT)
+            {
+                throw new Exception("[FATAL] Input MAX_ATTEMPT exceed.");
+            }
+            string input = Console.ReadLine();
+            int inputAsInt;
+            try
+            {
+                inputAsInt = Convert.ToInt32(input);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("[ERROR] The value you entered is invalid, Please try again.");
+                inputAsInt = safePromptForInt(recursionCt + 1);
+            }
+            return inputAsInt;
+        }
+
+        /**
+         * safeIntAddition
+         * would fail on int overflow/underflow
+         */
+        private static int safeIntAddition(int a, int b)
+        {
+            // Overflow check
+            if ((b > 0) && ((Int32.MaxValue - b) < a))
+            {
+                throw new Exception("[ERROR] Int addition overflow");
+            }
+            // Underflow check
+            if ((b < 0) && ((Int32.MinValue - b) > a))
+            {
+                throw new Exception("[ERROR] Int addition underflow");
+            }
+            return a + b;
+        }
+        private static int polynomial(int input)
+        {
+            int poly = 4 * (int)Math.Pow(input, 3) + 5 * input - 2;
+            return poly;
+        }
+        private static string convertTime(int input)
+        {
+            TimeSpan time = TimeSpan.FromSeconds(input);
+            // from https://stackoverflow.com/questions/463642/what-is-the-best-way-to-convert-seconds-into-hourminutessecondsmilliseconds
+            string str = time.ToString(@"hh\:mm\:ss");
+            return str;
+        }
+    }
+}
+

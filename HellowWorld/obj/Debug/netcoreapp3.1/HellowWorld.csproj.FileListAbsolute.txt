@@ -1,0 +1,13 @@
+C:\Users\yuris\Documents\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.exe
+C:\Users\yuris\Documents\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.deps.json
+C:\Users\yuris\Documents\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.runtimeconfig.json
+C:\Users\yuris\Documents\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.runtimeconfig.dev.json
+C:\Users\yuris\Documents\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.dll
+C:\Users\yuris\Documents\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.pdb
+C:\Users\yuris\Documents\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.csprojAssemblyReference.cache
+C:\Users\yuris\Documents\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.AssemblyInfoInputs.cache
+C:\Users\yuris\Documents\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.AssemblyInfo.cs
+C:\Users\yuris\Documents\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Documents\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.dll
+C:\Users\yuris\Documents\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.pdb
+C:\Users\yuris\Documents\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.genruntimeconfig.cache

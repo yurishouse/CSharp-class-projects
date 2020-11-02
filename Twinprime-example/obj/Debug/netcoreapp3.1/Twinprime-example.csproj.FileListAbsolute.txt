@@ -1,0 +1,4 @@
+C:\Users\yuris\Documents\Twinprime-example\obj\Debug\netcoreapp3.1\Twinprime-example.csprojAssemblyReference.cache
+C:\Users\yuris\Documents\Twinprime-example\obj\Debug\netcoreapp3.1\Twinprime-example.AssemblyInfoInputs.cache
+C:\Users\yuris\Documents\Twinprime-example\obj\Debug\netcoreapp3.1\Twinprime-example.AssemblyInfo.cs
+C:\Users\yuris\Documents\Twinprime-example\obj\Debug\netcoreapp3.1\Twinprime-example.csproj.CoreCompileInputs.cache
